@@ -2,7 +2,6 @@
 
 Laura Kaplan, Victoria Jaczynski, Gary Feng
 
-<br>
 # How to run:
 <br>	With GUI: Happy Camper should be run from the HappyCamperView class in order to interract with the GUI.
 <br>	Without GUI: Functionality without the GUI should be tested from the PersonalizedResult class.
