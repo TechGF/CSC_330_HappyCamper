@@ -23,4 +23,4 @@ Some campsite names associated with multiple zip codes due to the way we combine
 This issue would not be present with more accurate datasets.
 
 ## Video Walkthrough:
-https://recordit.co/WIvfRQTGG5
+<img src='http://g.recordit.co/WIvfRQTGG5.gif'><br>
