@@ -11,6 +11,9 @@ Testing Classes: Most classes are set up with their own commented-out main metho
 		- Weather
 		- Campsite
 		- ZipCodeDatabase
+		
+## Video Walkthrough:
+<img src='http://g.recordit.co/WIvfRQTGG5.gif'><br>
 
 ## About the data and results:
 ***DATE RANGE: Must be between 06/01/20 and 06/08/20***<br>
@@ -21,6 +24,3 @@ More campsites available at ranges over 100 miles from NYC.
 ## Realism Note:
 Some campsite names associated with multiple zip codes due to the way we combined our datasets. 
 This issue would not be present with more accurate datasets.
-
-## Video Walkthrough:
-<img src='http://g.recordit.co/WIvfRQTGG5.gif'><br>
