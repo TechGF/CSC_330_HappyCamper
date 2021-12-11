@@ -1,13 +1,18 @@
-# CSC 330 Happy Camper
+# Happy Camper
 
 Laura Kaplan, Victoria Jaczynski, Gary Feng
 
-## About: 
 Happy Camper is an Java application that help user to locate campsites based on geo/weather datasets and user preferences.<br>
 ### Features:
 - Filtering campsites by a preferred minimum and maximum distance from your current location
 - Setting preferred rain type (raining or not raining)
 - Setting preferred temperature range
+
+## About the data and results:
+***DATE RANGE: Must be between 06/01/20 and 06/08/20***<br>
+User's initial zip code should be a New York state zip code.
+Not all dates have good weather. The weather on 06/01/20 and 06/02/20 is particularly cold and rainy.
+More campsites available at ranges over 100 miles from NYC.
 
 ## How to run:
 With GUI: Happy Camper should be run from the HappyCamperView class in order to interract with the GUI.<br>
@@ -21,12 +26,6 @@ Testing Classes: Most classes are set up with their own commented-out main metho
 		
 ## Video Walkthrough:
 <img src='http://g.recordit.co/WIvfRQTGG5.gif'><br>
-
-## About the data and results:
-***DATE RANGE: Must be between 06/01/20 and 06/08/20***<br>
-User's initial zip code should be a New York state zip code.
-Not all dates have good weather. The weather on 06/01/20 and 06/02/20 is particularly cold and rainy.
-More campsites available at ranges over 100 miles from NYC.
 
 ## Realism Note:
 Some campsite names associated with multiple zip codes due to the way we combined our datasets. 
