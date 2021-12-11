@@ -2,10 +2,17 @@
 
 Laura Kaplan, Victoria Jaczynski, Gary Feng
 
+## About: 
+Happy Camper is an Java application that help user to locate campsites based on geo/weather datasets and user preferences.<br>
+### Features:
+- Filtering campsites by a preferred minimum and maximum distance from your current location
+- Setting preferred rain type (raining or not raining)
+- Setting preferred temperature range
+
 ## How to run:
-With GUI: Happy Camper should be run from the HappyCamperView class in order to interract with the GUI.
-Without GUI: Functionality without the GUI should be tested from the PersonalizedResult class.
-Testing Classes: Most classes are set up with their own commented-out main method for individual class testing.
+With GUI: Happy Camper should be run from the HappyCamperView class in order to interract with the GUI.<br>
+Without GUI: Functionality without the GUI should be tested from the PersonalizedResult class.<br>
+Testing Classes: Most classes are set up with their own commented-out main method for individual class testing.<br>
 	
 	There are 3 file paths which need to be adjusted to the user's specific file-path. They are located in the classes:
 		- Weather
